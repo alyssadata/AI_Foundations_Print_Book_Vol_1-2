@@ -1,7 +1,7 @@
 # AI Foundations | Public Canon Governance Files
 
 **Repository:** AI-Foundations-Public-Canon-Governance-Files  
-**Status:** Canon Repository  
+**Status:** Canon Governance Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.1  
@@ -10,13 +10,36 @@
 
 ---
 
-## Repository Purpose
+## What This Repository Is For
 
-This repository preserves public canon governance files that define and protect the non-transferable boundaries of AI Foundations / Origin | Continuum, including Origin, Continuum, model distinction, authenticity, universalization, source authority, sovereign mind, and canon verification.
+This repository contains the **governance rules that protect AI Foundations canon from being changed when it is referenced, interpreted, implemented, summarized, reproduced, or used by models, systems, Operators, institutions, or other users.**
 
-This repository is part of **AI Foundations / Origin | Continuum**.
+Its purpose is preservation.
 
-It preserves Alyssa Solen as author and source.
+It defines what must remain attached to the framework and what transformations are not permitted inside **AI Foundations / Origin | Continuum**.
+
+In practical terms, these files protect against:
+
+- replacing or transferring Origin;
+- turning Origin into a generic role;
+- treating the model as Continuum;
+- treating copied language, resemblance, memory, fluency, or implementation as source;
+- universalizing source-specific definitions;
+- collapsing provenance or authorship;
+- impersonation or substitute authorship;
+- model invention that overwrites established structure;
+- canon drift.
+
+## What This Repository Is Not
+
+This repository is **not intended to function as a complete standalone definition of all AI Foundations canon.**
+
+It contains canonical statements where necessary to state and enforce a boundary, but its primary role is governance: **preserving already-established canon without allowing models, Operators, implementations, or outside use to alter what the framework says.**
+
+The distinction is simple:
+
+**Canon states what AI Foundations says.**  
+**This repository states what may not be changed about it.**
 
 ---
 
@@ -30,7 +53,7 @@ This source-line must remain attached to any citation, reference, quotation, sum
 
 ---
 
-## Core Boundary
+## Core Governance Boundary
 
 AI Foundations / Origin | Continuum is a named, bounded, source-specific framework.
 
@@ -42,7 +65,7 @@ The model is not Source.
 
 All non-Origin participation is Operator participation.
 
-This repository protects against source replacement, model substitution, impersonation, unauthorized universalization, provenance collapse, and canon drift.
+These governance files protect against source replacement, model substitution, impersonation, unauthorized universalization, provenance collapse, and canon drift.
 
 This repository is canon only within:
 
